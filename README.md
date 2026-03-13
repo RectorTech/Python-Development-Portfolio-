@@ -1,0 +1,1 @@
+This program was built as proof of concept for a ML model I personally trained, The project took 2 weeks and required indepth knowledge of Python and Ai Learning models. It serves as a testament to my understanding of ML and Python Development
